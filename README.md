@@ -52,4 +52,4 @@ TerraGrow is an intelligent web app that uses a Random Forest model for crop rec
   Enhance efficiency and sustainability by aligning crop choices and yield strategies with specific conditions.
 
 ## Demo
-![Usage](https://github.com/user-attachments/assets/7751abbd-afe6-45bb-b00f-15d92d0e5be7)
+![Usage](https://github.com/user-attachments/assets/22574a79-71ca-4eed-af90-d2a46475ff7c)

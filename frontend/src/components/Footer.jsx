@@ -17,11 +17,11 @@ const Footer = () => {
             <div>
               <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
               <ul className="text-gray-500 dark:text-gray-400 font-medium">
-                <li className="mb-4">
+                {/* <li className="mb-4">
                   <a href="https://mindsdb.com/" className="hover:underline">Mindsdb</a>
-                </li>
+                </li> */}
                 <li>
-                  <a href="https://mdb.ai/" className="hover:underline">MindsDb.ai</a>
+                  <a href="https://www.daytona.io/" className="hover:underline">Daytona</a>
                 </li>
               </ul>
             </div>

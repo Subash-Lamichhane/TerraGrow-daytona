@@ -27,7 +27,7 @@ const Navbar = () => {
                         </span>
                     </Link>
                     <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
-                        <a href="https://github.com/Subash-Lamichhane" className="hidden md:flex">
+                        <a href="https://github.com/Subash-Lamichhane/TerraGrow-daytona" className="hidden md:flex">
                             <motion.button
                                 type="button"
                                 className="bg-black hover:bg-gray-900 text-white md:px-5 md:py-2 rounded-md flex items-center space-x-2 mx-3 font-[600]"
@@ -36,15 +36,15 @@ const Navbar = () => {
                                 <span>Github</span>
                             </motion.button>
                         </a>
-                        <Link to="/signup" className="hidden md:flex">
+                        <a href="https://quira.sh/" className="hidden md:flex">
                             <motion.button
                                 type="button"
                                 className="bg-black hover:bg-gray-900 text-white border-2 md:px-5 md:py-2 rounded-md flex items-center space-x-2 px-2 font-[600]"
                                 whileHover={{ scale: 1.1 }}
                             >
-                                <span>Quine</span>
+                                <span>Quira</span>
                             </motion.button>
-                        </Link>
+                        </a>
 
                         <button
                             onClick={toggleMenu}

@@ -4,9 +4,54 @@ It can be used as a template to create sample repositories that can be added int
 
 Once you finish your sample and it gets merged, you can open a PR in the Daytona repo and submit the sample into the [index file](https://github.com/daytonaio/daytona/blob/main/hack/samples/index.json). -->
 
-# Sample <NodeJS/React>
+# <p align="center">TerraGrow: Grow Smart, Plant Right</p>
+<p align="center">
+    <a href="https://github.com/Subash-Lamichhane/TerraGrow-daytona" target="blank">
+        <img src="https://img.shields.io/github/watchers/Subash-Lamichhane/TerraGrow-daytona?style=for-the-badge&logo=appveyor" alt="Watchers"/>
+    </a>
+    <a href="https://github.com/Subash-Lamichhane/TerraGrow-daytona/fork" target="blank">
+        <img src="https://img.shields.io/github/forks/Subash-Lamichhane/TerraGrow-daytona?style=for-the-badge&logo=appveyor" alt="Forks"/>
+    </a>
+    <a href="https://github.com/Subash-Lamichhane/TerraGrow-daytona/stargazers" target="blank">
+        <img src="https://img.shields.io/github/stars/Subash-Lamichhane/TerraGrow-daytona?style=for-the-badge&logo=appveyor" alt="Star"/>
+    </a>
+    <a href="https://github.com/Subash-Lamichhane/TerraGrow-daytona/issues" target="blank">
+        <img src="https://img.shields.io/github/issues/Subash-Lamichhane/TerraGrow-daytona?style=for-the-badge&logo=appveyor" alt="Issue"/>
+    </a>
+    <a href="https://github.com/Subash-Lamichhane/TerraGrow-daytona/pulls" target="blank">
+        <img src="https://img.shields.io/github/issues-pr/Subash-Lamichhane/TerraGrow-daytona?style=for-the-badge&logo=appveyor" alt="Open Pull Request"/>
+    </a>
+    <a href="https://github.com/Subash-Lamichhane/TerraGrow-daytona/blob/master/LICENSE" target="blank">
+        <img src="https://img.shields.io/github/license/Subash-Lamichhane/TerraGrow-daytona?style=for-the-badge&logo=appveyor" alt="License" />
+    </a>
+</p>
 
+## Sample <NodeJS/React>
+
+## Overview
 TerraGrow is an intelligent web app that uses a Random Forest model for crop recommendations and the Llama3-8b-8192 model from Groq to suggest yield improvement strategies. By analyzing factors like nitrogen (N), phosphorus (P), potassium (K), temperature, humidity, and pH, it provides data-driven insights to help farmers optimize planting decisions and achieve higher yields.
+
+
+# Dataset 
+[Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) is being used for this project. You can get this dataset from kaggle.
+
+## ✨ Features  
+
+<!-- List of sample features (e.g. realtime chat app, standardized development environment with devcontainers) -->
+- **Smart Crop Recommendations**  
+  Utilizes Random Forest models to suggest the best crops based on environmental data like NPK levels, temperature, humidity, and pH.
+
+- **Yield Improvement Suggestions**  
+  Powered by the Llama3-8b-8192 model from Groq, it provides actionable strategies to boost crop yield, such as nutrient adjustments and irrigation optimization.
+
+- **User-Friendly Interface**  
+  Offers an intuitive platform for inputting data and accessing tailored recommendations effortlessly.
+
+- **Precision Agriculture Made Simple**  
+  Enhance efficiency and sustainability by aligning crop choices and yield strategies with specific conditions.
+
+## Demo
+<video src="https://github.com/user-attachments/assets/9c0cd84e-a9d7-4786-8ed4-a6ad8abd4f90"></video>
 
 ## 🚀 Getting Started  
 
@@ -36,20 +81,23 @@ TerraGrow is an intelligent web app that uses a Random Forest model for crop rec
       ```  
 
 
-## ✨ Features  
 
-<!-- List of sample features (e.g. realtime chat app, standardized development environment with devcontainers) -->
-- **Smart Crop Recommendations**  
-  Utilizes Random Forest models to suggest the best crops based on environmental data like NPK levels, temperature, humidity, and pH.
+## Screenshots
 
-- **Yield Improvement Suggestions**  
-  Powered by the Llama3-8b-8192 model from Groq, it provides actionable strategies to boost crop yield, such as nutrient adjustments and irrigation optimization.
+Landing Page:
+![Landing1](https://github.com/user-attachments/assets/9d3c0da3-c14a-4c71-8af9-c40c8aa71f6b)
 
-- **User-Friendly Interface**  
-  Offers an intuitive platform for inputting data and accessing tailored recommendations effortlessly.
-
-- **Precision Agriculture Made Simple**  
-  Enhance efficiency and sustainability by aligning crop choices and yield strategies with specific conditions.
-
-## Demo
+Home Page:
 ![Usage](https://github.com/user-attachments/assets/22574a79-71ca-4eed-af90-d2a46475ff7c)
+
+## Technologies Used
+
+- **Daytona**: Development environment manager.  
+- **React**: Frontend library for building user interfaces.  
+- **Vite**: Fast frontend build tool.  
+- **Tailwind CSS**: Utility-first CSS framework.  
+- **Express**: Backend framework for APIs.  
+- **Groq API**: Fast AI interface.
+- **python-shell**: Run Python scripts from Node.js.  
+- **Scikit-learn**: Machine learning library for Python.  
+

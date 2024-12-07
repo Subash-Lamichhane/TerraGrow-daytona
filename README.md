@@ -101,4 +101,3 @@ Home Page:
 - **python-shell**: Run Python scripts from Node.js.  
 - **Scikit-learn**: Machine learning library for Python.  
 
-git

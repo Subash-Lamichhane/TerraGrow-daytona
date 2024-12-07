@@ -26,7 +26,7 @@ Once you finish your sample and it gets merged, you can open a PR in the Daytona
     </a>
 </p>
 
-## Sample <NodeJS/React>
+## Sample NodeJS/React
 
 ## Overview
 TerraGrow is an intelligent web app that uses a Random Forest model for crop recommendations and the Llama3-8b-8192 model from Groq to suggest yield improvement strategies. By analyzing factors like nitrogen (N), phosphorus (P), potassium (K), temperature, humidity, and pH, it provides data-driven insights to help farmers optimize planting decisions and achieve higher yields.
@@ -101,3 +101,4 @@ Home Page:
 - **python-shell**: Run Python scripts from Node.js.  
 - **Scikit-learn**: Machine learning library for Python.  
 
+git

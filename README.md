@@ -90,6 +90,8 @@ Landing Page:
 Home Page:
 ![Usage](https://github.com/user-attachments/assets/22574a79-71ca-4eed-af90-d2a46475ff7c)
 
+## Article
+Check out my article on integrating Daytona into a Machine Learning project with React, Node, and Python on Dev.to: [Integrate Daytona into a Machine Learning Project](https://dev.to/subashlamichhane/integrate-daytona-into-a-machine-learning-project-with-react-node-and-python-36o8)
 ## Technologies Used
 
 - **Daytona**: Development environment manager.  
